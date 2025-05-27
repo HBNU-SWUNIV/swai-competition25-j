@@ -1,14 +1,14 @@
 # OSSW-Competition-TEMPLATE
 소중한 오픈 소스 활용SW 경진대회 
-# 국립한밭대학교 ㅁㅁㅁㅁ팀
+# 국립한밭대학교 J팀
 
 ## 주제 
-- XXX를 활용한 XXX (경진대회 참여 주제) 
+- ollama와 로컬 llama 3.1:8b LLM을 활용한 웹 기반 음성 키오스크 시스템
   
 ## 팀 구성 
-- 20XX0001 김이박 XXX학과
-- 20XX0002 이박김 XXX학과
-- 20XX0003 박김이 XXX학과
+- 20201753 장재혁 컴퓨터공학과
+- 20211868 권정은 컴퓨터공학과
+- 20232005 강유진 컴퓨터공학과
 
 ## Project Background
   - ### 개요
@@ -19,7 +19,5 @@
   - ### 기대 효과
 
 ## 개발환경
-  - ### DBMS :
-  - ### 개발 언어 :
-  - ### XXXXXX
-  - ### XXXXXX
+  - ### DBMS : X
+  - ### 개발 언어 : typescript(react), python(flask)
