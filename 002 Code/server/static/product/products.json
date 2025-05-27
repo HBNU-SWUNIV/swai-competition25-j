@@ -1,0 +1,68 @@
+[
+  {
+    "code": "C912771023801812",
+    "name": "아메리카노",
+    "price": 2500,
+    "description": "진한 에스프레소와 물의 조화",
+    "category": "음료",
+    "stock": 50,
+    "image_url": "",
+    "is_active": true,
+    "created_at": "2025-05-26"
+  },
+  {
+    "code": "C20250527112249054",
+    "name": "맥주",
+    "price": "5000",
+    "description": "맥주",
+    "category": "주류",
+    "stock": "30",
+    "image_url": "",
+    "is_active": true,
+    "created_at": null
+  },
+  {
+    "code": "C20250527112626634",
+    "name": "막걸리",
+    "price": "1",
+    "description": "2",
+    "category": "3",
+    "stock": "1",
+    "image_url": "",
+    "is_active": true,
+    "created_at": null
+  },
+  {
+    "code": "C20250527115038090",
+    "name": "소주",
+    "price": "4500",
+    "description": "소주",
+    "category": "주류",
+    "stock": "10",
+    "image_url": null,
+    "is_active": true,
+    "created_at": null
+  },
+  {
+    "code": "C20250527163249296",
+    "name": "콜라",
+    "price": "2000",
+    "description": "맛있다",
+    "category": "음료",
+    "stock": "10",
+    "image_url": null,
+    "is_active": true,
+    "created_at": null
+  },
+  {
+    "code": "C20250527165855749",
+    "name": "사이다",
+    "price": "2000",
+    "description": "탄산이다",
+    "category": "음료",
+    "stock": "1",
+    "image_url": null,
+    "is_active": true,
+    "created_at": null
+  }
+]
